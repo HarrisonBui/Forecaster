@@ -44,5 +44,24 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "React weather forecast app with d3 chart.",
+  "main": "webpack.config.js",
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-react": "^7.4.0",
+    "redux-devtools": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisonBui/Forecaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarrisonBui/Forecaster/issues"
+  },
+  "homepage": "https://github.com/HarrisonBui/Forecaster#readme"
 }
